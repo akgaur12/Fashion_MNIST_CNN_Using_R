@@ -1,1 +1,1 @@
-# Fashion_MNIST_CNN_Using_R
+# Fashion MNIST CNN Using R

@@ -1,5 +1,3 @@
-
-
 ### Installing and activating the libraries
 
 install.packages("keras")

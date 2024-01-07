@@ -16,3 +16,8 @@ The Fashion MNIST dataset is a collection of 28x28 grayscale images of 10 fashio
 
 ## Results
 <img src="https://github.com/akgaur12/Fashion_MNIST_CNN_Using_R/assets/134853842/7e72c0ac-c37a-46ce-bd3e-e4d78beae8d8" alt="Project GUI" width='50%'>
+
+## License
+This project is licensed under the MIT License.
+
+Feel free to contribute or report issues. Happy coding!
